@@ -1,6 +1,7 @@
 # Aneurysms_Rupture_Prediction
 
-Created for "Aneurysm_Rupture_Prediction". Code will be released once our paper can be accepted.
+Created for "Aneurysm_Rupture_Prediction". Code will be released once our paper “Morphology-aware multi-source fusion–based intracranial
+aneurysms rupture prediction” can be accepted.
 
 "train_contrastive_supervised.py" supervised learning  
 "train_contrastive_self-supervised.py" contrastive learning  
